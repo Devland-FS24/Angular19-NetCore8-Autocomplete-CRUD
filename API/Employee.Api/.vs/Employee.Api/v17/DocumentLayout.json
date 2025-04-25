@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ngversions\\19\\API\\Employee.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|c:\\ngversions\\19\\api\\employee.api\\employee.api\\controllers\\dropdownlistitemsmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\controllers\\dropdownlistitemsmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|c:\\ngversions\\19\\api\\employee.api\\employee.api\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|c:\\ngversions\\19\\api\\employee.api\\employee.api\\model\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\model\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|c:\\ngversions\\19\\api\\employee.api\\employee.api\\model\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\model\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|c:\\ngversions\\19\\api\\employee.api\\employee.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|c:\\ngversions\\19\\api\\employee.api\\employee.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|c:\\ngversions\\19\\api\\employee.api\\employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|c:\\ngversions\\19\\api\\employee.api\\employee.api\\model\\dropdownlistitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\model\\dropdownlistitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\Model\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Model\\EmployeeData.cs",
+              "ToolTip": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\Model\\EmployeeData.cs",
+              "RelativeToolTip": "Employee.Api\\Model\\EmployeeData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA6wBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:28:20.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee.Api\\appsettings.json",
+              "ToolTip": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\appsettings.json",
+              "RelativeToolTip": "Employee.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T20:08:05.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Employee.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Employee.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T20:07:43.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeMasterController.cs",
+              "DocumentMoniker": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\Controllers\\EmployeeMasterController.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Controllers\\EmployeeMasterController.cs",
+              "ToolTip": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\Controllers\\EmployeeMasterController.cs",
+              "RelativeToolTip": "Employee.Api\\Controllers\\EmployeeMasterController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:48:12.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DropDownListItemsMasterController.cs",
+              "DocumentMoniker": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\Controllers\\DropDownListItemsMasterController.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Controllers\\DropDownListItemsMasterController.cs",
+              "ToolTip": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\Controllers\\DropDownListItemsMasterController.cs",
+              "RelativeToolTip": "Employee.Api\\Controllers\\DropDownListItemsMasterController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:55:56.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\Model\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Model\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\Model\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Employee.Api\\Model\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:17:09.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DropDownListItems.cs",
+              "DocumentMoniker": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\Model\\DropDownListItems.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Model\\DropDownListItems.cs",
+              "ToolTip": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\Model\\DropDownListItems.cs",
+              "RelativeToolTip": "Employee.Api\\Model\\DropDownListItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:48:31.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Program.cs",
+              "ToolTip": "C:\\ngversions\\19\\API\\Employee.Api\\Employee.Api\\Program.cs",
+              "RelativeToolTip": "Employee.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:07:21.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
